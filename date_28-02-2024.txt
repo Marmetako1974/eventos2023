@@ -2,6 +2,7 @@
 00:30;WTA Torneo de Austin 1ª Ronda;D. Collins;O. Gadecki;WTA TV;
 01:00;Torneo de Acapulco 1ª Ronda;R. Safiullin;S. Tsitsipas;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 01:00;WTA Torneo de San Diego 1ª Ronda;D. Vekic;K. Hui;WTA TV;DAZN (Regístrate);
+01:30;NBA Liga Regular;Boston Celtics;Philadelphia 76ers;M+ Deportes (63);
 02:30;Torneo de Acapulco 1ª Ronda;M. Mmoh;H. Rune;ATP Tennis TV;M+ Deportes 2 (64);
 02:30;WTA Torneo de San Diego 1ª Ronda;C. Wozniacki;A. Blinkova;WTA TV;DAZN (Regístrate);
 04:00;Torneo de Acapulco 1ª Ronda;A. Zverev;D. Altmaier;ATP Tennis TV;M+ Deportes 2 (64);
