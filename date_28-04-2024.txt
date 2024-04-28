@@ -49,6 +49,6 @@
 20:00;WTA Madrid 3ª Ronda;R. Montgomery;A. Sabalenka;WTA TV;RTVE Play;M+ Deportes 2 (64);
 21:00;La Liga EA Sports;Real Betis;Sevilla FC;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Albacete;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-21:30;Masters Madrid 3ª Ronda;D. Shapovalov;A. Zverev;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 21:30;NBA Playoffs;Los Angeles Clippers;Dallas Mavericks;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+22:45;Masters Madrid 3ª Ronda;D. Shapovalov;A. Zverev;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 BaloncestoESP;La Xarxa+;
