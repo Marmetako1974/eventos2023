@@ -17,4 +17,4 @@
 20:00;Masters Madrid 3ª Ronda;J. Sinner;P. Kotov;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 20:30;LaLiga Hypermotion;Racing Ferrol;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;La Liga EA Sports;FC Barcelona;Valencia CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
-21:30;WTA Madrid 1/8 de final;D. Collins;A. Sabalenka;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;RTVE Play;M+ Deportes 2 (64);
+22:10;WTA Madrid 1/8 de final;D. Collins;A. Sabalenka;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;RTVE Play;M+ Deportes 2 (64);
