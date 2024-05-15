@@ -1,0 +1,18 @@
+02:00;NBA Playoffs Semifinal Conferencia;Indiana Pacers;New York Knicks;M+ Deportes (63);
+04:30;NBA Playoffs Semifinal Conferencia;Minnesota Timberwolves;Denver Nuggets;M+ Deportes (63);
+11:00;Francia Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 3 (M196);LaLiga+ TV (Orange 109);
+11:45;Giro de Italia;Etapa 11;Foiano di Valfortore › Francavilla Al Mare (203 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+13:00;WTA Roma 1/4 de Final;J. Ostapenko;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 2 (M71);Teledeporte;RTVE Play;
+15:00;Masters Roma 1/4 de Final;A. Tabilo;Zh. Zhang;ATP Tennis TV;M+ Deportes 2 (64);
+15:15;Giro de Italia;Etapa 11;Foiano di Valfortore › Francavilla Al Mare (203 km);DAZN (Regístrate);ETB1 (País Vasco);Eurosport 1;Eurosport Player;
+16:00;4 Días de Dunkerque;Etapa 2;Wimereux › Abbeville (184,3 km);Eurosport Player;
+16:00;Paraguay Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+19:00;WTA Roma 1/4 de Final;V. Azarenka;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 4 (M197);Teledeporte;RTVE Play;
+19:30;La Liga EA Sports;Rayo Vallecano;Granada CF;DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV M2;
+19:30;La Liga EA Sports;Sevilla FC;Cádiz CF;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
+20:30;Liga Endesa Playoffs 1/4 Final;Real Madrid Baloncesto;Dreamland Gran Canaria;Movistar Plus+ (M7);M+ Deportes (63);
+20:30;Masters Roma 1/4 de Final;A. Zverev;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
+20:45;Premier League;Brighton;Chelsea;DAZN (Regístrate);DAZN 3 (M196);DAZN 2 Bar (Movistar-149);
+21:00;Premier League;Manchester Utd.;Newcastle;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+22:00;La Liga EA Sports;Celta;Athletic Club;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV M3;
+22:00;La Liga EA Sports;Getafe;At. Madrid;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
