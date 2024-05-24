@@ -23,7 +23,6 @@
 16:00;Torneo de Lyon Semifinal 2 ATP 250;G. Mpetshi Perricard;A. Bublik;ATP Tennis TV;M+ Deportes 3 (65);
 16:00;Tour de Noruega;Etapa 2;Odda › Gullingen (208 km);MAX;Eurosport Player;
 17:00;Fórmula 1;G.P. Mónaco (Montecarlo);Libres 2;DAZN (Regístrate);DAZN F1 (M69);
-17:00;Torneo de Ginebra Semifinal 2 ATP 250;F. Cobolli;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
 18:25;Euroliga Semifinales;Panathinaikos BC;Fenerbahce Istanbul;Movistar Plus+ (M7);M+ Deportes (63);
 18:30;WTA Torneo de Estrasburgo Semifinal 2 WTA 500;A. Kalinina;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 3 (M196);
 20:00;Primera Federación Futsal Playoff 1/4 Final;ElPozo Murcia;Viña Albali Valdepeñas;FEF TV;
