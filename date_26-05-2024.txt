@@ -58,7 +58,6 @@
 16:30;Roland Garros 1ª Ronda (Suzanne Lenglen);B. Krejcikova;V. Golubic;MAX;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;Eurosport Player;
 17:00;Euroliga 3er Puesto;Olympiacos Piraeus;Fenerbahce Istanbul;Movistar Plus+ (M7);M+ Deportes (63);
 18:00;FIFA Copa Mundial Futsal;Sorteo Fase Final;Uzbekistán 2024;FIFA+;
-18:30;IndyCar;500 millas de Indianápolis;Carrera;M+ Deportes 2 (64);
 18:30;LaLiga Hypermotion;Albacete;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 11;LaLiga TV M11;M+ LaLiga TV 5 (M171 O275);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Amorebieta;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 5 (M181 O292);LaLiga TV Bar;LaLiga TV M5;
 18:30;LaLiga Hypermotion;Burgos CF;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 9;M+ LaLiga TV 3 (M167 O270);LaLiga TV Bar;LaLiga TV M9;
@@ -72,6 +71,6 @@
 18:30;LaLiga Hypermotion;Sporting Gijón;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 4 (M179 O291);LaLiga TV Bar;LaLiga TV M4;
 20:00;Euroliga Final;Real Madrid Baloncesto;Panathinaikos BC;Movistar Plus+ (M7);M+ Deportes (63);
 20:15;Roland Garros 1ª Ronda (Philippe Chatrier);S. Wawrinka;A. Murray;MAX;Eurosport 4K (M444 O102);DAZN (Regístrate);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
-20:45;IndyCar;500 millas de Indianápolis;Carrera;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 21:00;La Liga EA Sports;Sevilla FC;FC Barcelona;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;DATOS ESTADÍSTICOS DE LA LIGA EA SPORTS EN TELEVISIÓN EN ESPAÑA;
 21:00;Mar de Plata Open;Final Masculina;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Deportes 3 (65);
+22:30;IndyCar;500 millas de Indianápolis;Carrera;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
