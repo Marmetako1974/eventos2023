@@ -16,8 +16,5 @@
 15:30;Roland Garros 3ª Ronda (Philippe Chatrier);I. Swiatek;M. Bouzkova;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 16:00;Roland Garros 3ª Ronda (Simonne Mathieu);C. Moutet;S. Ofner;MAX;M+ Deportes 6 (193);Eurosport Player;
 16:00;Roland Garros 3ª Ronda (Suzanne Lenglen);Zh. Zhang;S. Tsitsipas;MAX;DAZN (Regístrate);M+ Deportes 5 (192);Eurosport 2;Eurosport Player;
-17:45;Roland Garros 3ª Ronda (Simonne Mathieu);H. Hurkacz;D. Shapovalov;MAX;M+ Deportes 6 (193);Eurosport Player;
-19:00;Roland Garros 3ª Ronda (Pista 14);Z. Bergs;G. Dimitrov;MAX;Eurosport Player;
 20:15;Roland Garros 3ª Ronda (Philippe Chatrier);S. Korda;C. Alcaraz;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
-20:15;Roland Garros 3ª Ronda (Pista 14);B. Shelton;F. Auger-Aliassime;MAX;Eurosport Player;
 20:30;Liga Endesa Semifinales;Real Madrid Baloncesto;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
