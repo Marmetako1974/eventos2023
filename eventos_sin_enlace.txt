@@ -9,7 +9,7 @@
 14:20;Giro de Italia Next Gen;Etapa 4;Pertusio › Borgomanero (139 km);MAX;Eurosport Player;
 14:30;Torneo de Hertogenbosch 2ª Ronda;U. Humbert;A. Fils;ATP Tennis TV;
 14:30;Torneo de Stuttgart 2ª Ronda;H. Medjedovic;A. Bublik;ATP Tennis TV;
-14:30;WTA Torneo de Hertogenbosch 2ª Ronda;N. Osaka;S. Lamens;WTA TV;
+14:30;WTA Torneo de Hertogenbosch 2ª Ronda;N. Osaka;S. Lamens;WTA TV;DAZN (Regístrate);
 15:15;Tour de Suiza;Etapa 4;Rüschlikon › Gotthard Pass (171 km);ETB1 (País Vasco);
 15:30;WTA Torneo de Nottingham 2ª Ronda;R. Marino;K. Boulter;WTA TV;Tennis Channel (Orange 104);
 16:00;Torneo de Hertogenbosch 2ª Ronda;T. Griekspoor;M. McDonald;ATP Tennis TV;
