@@ -2,7 +2,7 @@
 11:00;WTA Torneo de Berlín 1ª Ronda;N. Osaka;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 12:00;WTA Torneo de Birmingham 1ª Ronda;C. Wozniacki;E. Mertens;WTA TV;
 12:30;WTA Torneo de Berlín 1ª Ronda;L. Noskova;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:00;La Liga EA Sports;Sorteo Calendario 2024/2025;RFEF.es;RFEF TV YouTube;DATOS ESTADÍSTICOS DE LA LIGA EA SPORTS EN TELEVISIÓN EN ESPAÑA;
+13:00;La Liga EA Sports;Sorteo Calendario 2024/2025;RFEF.es;RFEF TV YouTube;
 13:30;WTA Torneo de Birmingham 1ª Ronda;H. Watson;M. Bouzkova;WTA TV;
 14:00;WTA Torneo de Berlín 1ª Ronda;M. Sakkari;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 15:00;WTA Torneo de Birmingham 1ª Ronda;K. Pliskova;C. Dolehide;WTA TV;
