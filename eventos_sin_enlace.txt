@@ -2,10 +2,7 @@
 11:00;WTA Torneo de Berlín 2ª Ronda;V. Azarenka;Z. Sonmez;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 12:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 13:00;WTA Torneo de Birmingham 2ª Ronda;A. Tomljanovic;L. Zhu;WTA TV;
-13:30;WTA Torneo de Berlín 2ª Ronda;K. Siniakova;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:30;WTA Torneo de Birmingham 2ª Ronda;E. Cocciaretto;S. Stephens;WTA TV;
-15:00;WTA Torneo de Berlín 2ª Ronda;M. Vondrousova;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 16:00;WTA Torneo de Birmingham 2ª Ronda;L. Fernández;V. Golubic;WTA TV;
-16:30;WTA Torneo de Berlín 2ª Ronda;D. Kasatkina;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;WTA Torneo de Birmingham 2ª Ronda;A. Potapova;L. Bronzetti;WTA TV;
 18:00;Vuelta a Colombia;Etapa 5;Manizales › Buga (195,6 km);RCN Deportes YouTube;RCN Nuestra Tele;
