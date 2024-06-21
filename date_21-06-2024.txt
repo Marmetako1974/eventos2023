@@ -3,13 +3,11 @@
 11:00;WTA Torneo de Berlín 1/4 de Final;V. Azarenka;E. Rybakina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 12:00;Torneo de Halle 1/4 de Final;H. Hurkacz;M. Giron;ATP Tennis TV;M+ Deportes (63);
 12:00;WTA Torneo de Birmingham 1/4 de Final;E. Cocciaretto;D. Shnaider;WTA TV;DAZN (Regístrate);
-12:30;WTA Torneo de Berlín 1/4 de Final;J. Pegula;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 13:00;Italia Major;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);M+ Deportes 4 (191);
 13:00;Torneo de Queen's 1/4 de Final;J. Thompson;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
 13:30;Fórmula 1;G.P. España (Montmeló);Libres 1;DAZN (Regístrate);BE MAD;DAZN App Gratis (Regístrate);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Mitele.es;Esport3 (Cataluña);DAZN F1 (M69);
 13:30;Torneo de Halle 1/4 de Final;A. Fils;A. Zverev;ATP Tennis TV;M+ Deportes (63);
 13:30;WTA Torneo de Birmingham 1/4 de Final;A. Potapova;B. Krejcikova;WTA TV;DAZN (Regístrate);
-14:00;WTA Torneo de Berlín 1/4 de Final;C. Gauff;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:30;Torneo de Queen's 1/4 de Final;B. Harris;L. Musetti;ATP Tennis TV;M+ Deportes 2 (64);
 15:00;FIA Fórmula 3;G.P. España (Montmeló);Clasificación;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN F1 (M69);
 15:00;Torneo de Halle 1/4 de Final;J. Sinner;JL. Struff;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
