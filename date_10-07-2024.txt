@@ -4,4 +4,8 @@
 04:00;NBA Summer League California;Sacramento Kings;Charlotte Hornets;NBA League Pass;PD;Europeo Femenino Sub-20;1/8 de final;FIBA YouTube;
 06:00;Tour del Lago Qinghai;Etapa 4;Guide › Gonghe (136,1 km);Canal Deporte TV (Síguelo en directo);
 10:00;Málaga Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:00;Tour de Francia;Etapa 11;Évaux-les-Bains › Le Lioran (211 km);DAZN (Regístrate);MAX;Eurosport 1;Eurosport Player;
+12:45;Tour de Francia;Etapa 11;Évaux-les-Bains › Le Lioran (211 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;Eurosport 1;Eurosport Player;
 13:00;Giro de Italia Femenino;Etapa 4;Imola › Urbino (134 km);MAX;Eurosport Player;
+14:00;Wimbledon;1/4 de Final;Grand Slam;Movistar Plus+ (M7);M+ Ellas Vamos (66);Movistar+ Lite;M+ Wimbledon UHD (444);M+ Deportes (63);M+ Deportes 2 (64);
+16:05;Tour de Francia;Etapa 11;Évaux-les-Bains › Le Lioran (211 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
