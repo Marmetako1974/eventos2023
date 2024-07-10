@@ -16,7 +16,6 @@
 14:30;Europeo Femenino Sub-20 1/8 de final;Turquía;Israel;FIBA YouTube;
 14:30;Wimbledon 1/4 Final (Pista Central);E. Rybakina;E. Svitolina;M+ Ellas Vamos (66);Movistar+ Lite;M+ Wimbledon UHD (444);M+ Deportes 2 (64);
 15:30;Wimbledon 1/4 Final (Pista 1);L. Musetti;T. Fritz;Movistar Plus+ (M7);M+ Deportes (63);
-16:00;Wimbledon 1/4 Final (Pista Central);A. De Miñaur;N. Djokovic;SUSPENDIDO;
 16:05;Tour de Francia;Etapa 11;Évaux-les-Bains › Le Lioran (211 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
 17:00;Europeo Femenino Sub-20 1/8 de final;España;Lituania;FIBA YouTube;
 17:00;Europeo Femenino Sub-20 1/8 de final;Hungría;Polonia;FIBA YouTube;
