@@ -5,6 +5,7 @@
 17:00;Europeo Femenino Sub-20 1/4 de Final;Letonia;Italia;FIBA YouTube;
 17:00;Supersport;G.P. Gran Bretaña (Donington Park);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;Eurosport Player;
 19:30;Europeo Femenino Sub-20 1/4 de Final;España;Polonia;FIBA YouTube;
+20:30;Amistoso Femenino;Bélgica;España;Courtside 1891 Max;
 21:00;Amistoso;Francia;Serbia;Courtside 1891 Max;
 22:00;NBA Summer League Las Vegas;Orlando Magic;Cleveland Cavaliers;NBA League Pass;
 23:00;NBA Summer League Las Vegas;Minnesota Timberwolves;New Orleans Pelicans;NBA League Pass;

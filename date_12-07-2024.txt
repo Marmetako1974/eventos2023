@@ -16,7 +16,7 @@
 17:00;Supersport;G.P. Gran Bretaña (Donington Park);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;Eurosport Player;
 18:00;Málaga Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);
 19:30;Europeo Femenino Sub-20 1/4 de Final;España;Polonia;FIBA YouTube;
-20:30;Amistoso Femenino;Bélgica;España;Teledeporte;RTVE Play;
+20:30;Amistoso Femenino;Bélgica;España;Courtside 1891 Max;
 20:30;Málaga Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
 21:00;Amistoso;Francia;Serbia;Courtside 1891 Max;
 22:00;NBA Summer League Las Vegas;Orlando Magic;Cleveland Cavaliers;NBA League Pass;
