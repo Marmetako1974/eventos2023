@@ -1,6 +1,8 @@
 01:00;Torneo de Atlanta Semifinal 2 ATP 250;Y. Nishioka;A. Rinderknech;ATP Tennis TV;
 03:00;Título Mundial Femenino Peso Pesado;C. Shields;V. Joanisse;DAZN (Regístrate);
 04:00;UFC UFC 304;L. Edwards;B. Muhammad;MAX;
+08:30;FIA Fórmula 3;G.P. Bélgica (Spa);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
+10:00;FIA Fórmula 2;G.P. Bélgica (Spa);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
 11:00;JJOO Masculinos Fase de grupos;Sudán del Sur;Puerto Rico;MAX;Eurosport 6 (M183 O105);
 12:00;Europeo Sub-18 Fase de grupos;Lituania;Eslovenia;FIBA YouTube;
 12:00;Juegos Olímpicos 1ª Ronda;C. Moutet;S. Nagal;MAX;
@@ -17,11 +19,13 @@
 13:30;JJOO Femeninos Fase de grupos;España;China;MAX;Eurosport 6 (M183 O105);RTVE Play;
 13:30;Juegos Olímpicos 1ª Ronda;A. De Miñaur;JL. Struff;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;C. Ruud;T. Daniel;MAX;
+13:30;Juegos Olímpicos 1ª Ronda;M. Fucsovics;R. Nadal;MAX;Eurosport 3 (M180 O102);DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 13:30;Juegos Olímpicos 1ª Ronda;M. Uchijima;E. Svitolina;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;P. Martínez;A. Vavassori;MAX;
 14:10;Juegos Olímpicos;Cross Country Femenino;MAX;
 14:30;Europeo Sub-18 Fase de grupos;Turquía;Bélgica;FIBA YouTube;
 15:00;Europeo Sub-18 Fase de grupos;Suecia;Grecia;FIBA YouTube;
+15:00;Fórmula 1;G.P. Bélgica (Spa);Carrera;DAZN (Regístrate);DAZN F1 (M69);
 15:00;Juegos Olímpicos 1ª Ronda;A. Tabilo;R. Safiullin;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;F. Marozsan;U. Humbert;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;J. Pegula;V. Golubic;MAX;
@@ -44,5 +48,6 @@
 19:00;Juegos Olímpicos 1ª Ronda;A. Tomljanovic;C. Gauff;MAX;Eurosport 3 (M180 O102);
 19:30;Europeo Sub-18 Fase de grupos;Serbia;Letonia;FIBA YouTube;
 20:00;Europeo Sub-18 Fase de grupos;Francia;Dinamarca;FIBA YouTube;
+20:30;Juegos Olímpicos 1ª Ronda;A. Zverev;J. Munar;MAX;Eurosport 3 (M180 O102);DAZN (Regístrate);Eurosport 2;
 21:00;JJOO Femeninos Fase de grupos;Serbia;Puerto Rico;MAX;Eurosport 6 (M183 O105);
 22:00;Torneo de Atlanta;Final;ATP 250;ATP Tennis TV;
