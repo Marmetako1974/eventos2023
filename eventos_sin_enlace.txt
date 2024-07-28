@@ -34,7 +34,6 @@
 16:30;Juegos Olímpicos 1ª Ronda;S. Báez;T. Monteiro;MAX;
 17:00;Europeo Sub-18 Fase de grupos;Croacia;Alemania;FIBA YouTube;
 17:00;JJOO Femeninos;Sesión Vespertina;MAX;RTVE Play;
-17:15;JJOO Masculinos Fase de grupos;Serbia;Estados Unidos;MAX;Eurosport 6 (M183 O105);La 1 TVE;RTVE Play;
 17:30;Europeo Sub-18 Fase de grupos;España;Finlandia;FIBA YouTube;
 18:00;Juegos Olímpicos 1ª Ronda;A. Popyrin;N. Jarry;MAX;
 18:00;Juegos Olímpicos 1ª Ronda;J. Mensik;A. Shevchenko;MAX;
