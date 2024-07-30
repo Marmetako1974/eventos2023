@@ -21,7 +21,7 @@
 15:00;Juegos Olímpicos 2ª Ronda Dobles Femeninos;C. Bucsa | S. Sorribes;M. Carle | N. Podoroska;MAX;
 15:00;Juegos Olímpicos 2ª Ronda Dobles;P. Carreño | M. Granollers;M. Ebden | J. Peers;MAX;
 15:00;Juegos Olímpicos 2ª Ronda;JL. Struff;C. Moutet;MAX;
-15:15;Juegos Olímpicos 2ª Ronda Dobles;C. Alcaraz | R. Nadal;T. Griekspoor | W. Koolhof;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
+16:00;Juegos Olímpicos 2ª Ronda Dobles;C. Alcaraz | R. Nadal;T. Griekspoor | W. Koolhof;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 16:00;Vuelta a Portugal;Etapa 5;Penedono › Bragança (176,8 km);RTP Internacional;RTP Play Internacional;
 17:00;Torneo de Washington 1ª Ronda;J. Wolf;M. Kecmanovic;ATP Tennis TV;
 17:00;WTA Torneo de Washington 1ª Ronda;K. Volynets;K. Rakhimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
