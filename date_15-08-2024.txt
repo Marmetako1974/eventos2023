@@ -3,7 +3,7 @@
 02:40;WTA Cincinnati 1ª Ronda;C. Wozniacki;A. Kalinina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 03:40;Masters Cincinnati 2ª Ronda;J. Lehecka;D. Medvedev;ATP Tennis TV;M+ Deportes (63);
 13:30;Tour de Francia Femenino;Etapa 4;Bastogne › Amnéville (150 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
-13:30;Tour de Polonia;Etapa 4;Kudowa-Zdrój › Prudnik (195,3 km);Esport3 (Cataluña);ETB1 (País Vasco);
+14:30;Tour de Polonia;Etapa 4;Kudowa-Zdrój › Prudnik (195,3 km);Esport3 (Cataluña);ETB1 (País Vasco);
 14:30;Tour del Limousin;Etapa 3;La Rivière de Mansac › Argentat Xaintrie Val Dordorgne (189,5 km);MAX;
 15:00;Marbella Master;1/8 de final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 3 (M196);
 15:40;Tour de Leuven;UCI Europe Tour;Leuven › Leuven (192,7 km);MAX;
