@@ -1,3 +1,4 @@
+00:00;Masters Cincinnati Final ATP Masters 1000;J. Sinner;F. Tiafoe;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 00:30;Torneo de Winston-Salem 2ª Ronda;A. Vukic;A. Mannarino;ATP Tennis TV;
 01:00;WTA Torneo de Monterrey 1ª Ronda;C. Paquet;L. Sun;WTA TV;DAZN (Regístrate);
 02:30;Torneo de Winston-Salem 1ª Ronda;M. McDonald;C. Moutet;ATP Tennis TV;
@@ -5,9 +6,11 @@
 05:30;WTA Torneo de Monterrey 1ª Ronda;E. Avanesyan;E. Cocciaretto;WTA TV;DAZN (Regístrate);
 13:00;Europeo Femenino Sub-16 1/8 de final;Francia;Suecia;FIBA YouTube;
 13:00;Europeo Femenino Sub-16 1/8 de final;Italia;Grecia;FIBA YouTube;
+14:30;Vuelta a España;Etapa 4;Plasencia › Pico Villuercas (167 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;Eurosport 1;
 15:15;Tour de L'Avenir;Etapa 3;Mouchard › Plateau d'Hauteville (170,2 km);MAX;
 15:30;Europeo Femenino Sub-16 1/8 de final;Eslovenia;Serbia;FIBA YouTube;
 15:30;Europeo Femenino Sub-16 1/8 de final;Letonia;Bélgica;FIBA YouTube;
+16:05;Vuelta a España;Etapa 4;Plasencia › Pico Villuercas (167 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;Eurosport 1;
 17:00;WTA Torneo de Cleveland;2ª Ronda;WTA 250;WTA TV;
 18:00;Europeo Femenino Sub-16 1/8 de final;Alemania;Israel;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 1/8 de final;Hungría;Croacia;FIBA YouTube;
@@ -16,3 +19,6 @@
 20:00;Torneo de Winston-Salem;2ª Ronda;ATP 250;ATP Tennis TV;
 20:30;Europeo Femenino Sub-16 1/8 de final;España;Montenegro;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 1/8 de final;Finlandia;Polonia;FIBA YouTube;
+21:00;Champions League Play-Off;Bodø/Glimt;Crvena Zvezda;M+ Liga de Campeones 3 (M62 O118);
+21:00;Champions League Play-Off;GNK Dinamo Zagreb;Qarabag FK;M+ Liga de Campeones 2 (M61 O116);
+21:00;Champions League Play-Off;Lille;Slavia Praha;M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
