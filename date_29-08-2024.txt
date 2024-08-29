@@ -1,10 +1,11 @@
-00:05;US Open 2ª Ronda (Pista Grandstand);C. Ruud;G. Monfils;M+ Deportes 3 (65);
-01:00;US Open 2ª Ronda (Pista Arthur Ashe);T. Maria;C. Gauff;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
-01:00;US Open 2ª Ronda (Pista Louis Armstrong);V. Azarenka;C. Burel;M+ Deportes (63);
-01:05;US Open 2ª Ronda (Pista 17);E. Svitolina;A. Kalinina;M+ Deportes 6 (193);
-01:20;US Open 2ª Ronda (Pista 5);P. Stearns;D. Kasatkina;M+ Deportes 7 (194);
-02:30;US Open 2ª Ronda (Pista Arthur Ashe);L. Djere;N. Djokovic;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
-02:30;US Open 2ª Ronda (Pista Louis Armstrong);M. Berrettini;T. Fritz;M+ Deportes (63);
+00:10;US Open 2ª Ronda (Pista 17);E. Navarro;A. Rus;M+ Deportes 6 (193);
+00:40;US Open 2ª Ronda (Pista Grandstand);C. Ruud;G. Monfils;M+ Deportes 3 (65);
+01:05;US Open 2ª Ronda (Pista Louis Armstrong);V. Azarenka;C. Burel;M+ Deportes (63);
+01:15;US Open 2ª Ronda (Pista Arthur Ashe);T. Maria;C. Gauff;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+01:35;US Open 2ª Ronda (Pista 17);E. Svitolina;A. Kalinina;M+ Deportes 6 (193);
+01:45;US Open 2ª Ronda (Pista 5);P. Stearns;D. Kasatkina;M+ Deportes 7 (194);
+03:00;US Open 2ª Ronda (Pista Arthur Ashe);L. Djere;N. Djokovic;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
+03:00;US Open 2ª Ronda (Pista Louis Armstrong);M. Berrettini;T. Fritz;M+ Deportes (63);
 06:00;Tour de Hainan;Etapa 3;Lingshui › Wuzhishan (181,3 km);Hainan Touch YouTube;
 13:45;Tour del Benelux;Etapa 2;Tessenderlo › Tessenderlo (15,4 km);MAX;
 14:30;Vuelta a España;Etapa 12;Ourense Termal › Estación de Montaña de Manzaneda (137 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
