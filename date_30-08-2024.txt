@@ -1,7 +1,7 @@
-01:00;US Open 2ª Ronda (Pista Arthur Ashe);N. Osaka;K. Muchova;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
-01:00;US Open 2ª Ronda (Pista Louis Armstrong);F. Marozsan;D. Medvedev;M+ Deportes (63);M+ Deportes 4 (191);
-03:00;US Open 2ª Ronda (Pista Arthur Ashe);C. Alcaraz;B. Van de Zandschulp;Movistar Plus+ (M7);M+ Deportes 2 (64);
-03:00;US Open 2ª Ronda (Pista Louis Armstrong);C. Wozniacki;R. Zarazúa;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);M+ Deportes 4 (191);
+01:10;US Open 2ª Ronda (Pista Louis Armstrong);F. Marozsan;D. Medvedev;M+ Deportes (63);M+ Deportes 4 (191);
+01:15;US Open 2ª Ronda (Pista Arthur Ashe);N. Osaka;K. Muchova;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+03:20;US Open 2ª Ronda (Pista Arthur Ashe);C. Alcaraz;B. Van de Zandschulp;Movistar Plus+ (M7);M+ Deportes 2 (64);
+03:35;US Open 2ª Ronda (Pista Louis Armstrong);C. Wozniacki;R. Zarazúa;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);M+ Deportes 4 (191);
 06:00;Tour de Hainan;Etapa 4;Wuzhishan › Changjiang (151,3 km);Hainan Touch YouTube;
 10:45;MotoGP;G.P. Aragón (Motorland);Libres 1;DAZN (Regístrate);MotoGP Videopass;Aragón Deporte;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 13:00;Europa League;Sorteo de Fase Liga;UEFA TV;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);DATOS ESTADÍSTICOS DE EUROPA LEAGUE EN TELEVISIÓN EN ESPAÑA;
