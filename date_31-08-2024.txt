@@ -1,9 +1,11 @@
-01:00;US Open 3ª Ronda (Pista Arthur Ashe);A. Popyrin;N. Djokovic;Movistar Plus+ (M7);M+ Deportes 2 (64);
-01:00;US Open 3ª Ronda (Pista Louis Armstrong);M. Keys;E. Mertens;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+00:05;US Open 3ª Ronda (Pista Grandstand);C. Ruud;J. Shang;M+ Deportes 5 (192);
+00:10;US Open 3ª Ronda (Pista 17);B. Nakashima;L. Musetti;M+ Deportes 6 (193);
 01:30;Velada Peso Supergallo;E. Pierce;J. Sanmartin;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-02:30;US Open 3ª Ronda (Pista Louis Armstrong);TM. Etcheverry;A. Zverev;M+ Deportes (63);
-03:00;US Open 3ª Ronda (Pista Arthur Ashe);E. Alexandrova;A. Sabalenka;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+01:45;US Open 3ª Ronda (Pista Louis Armstrong);M. Keys;E. Mertens;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+02:30;US Open 3ª Ronda (Pista Arthur Ashe);A. Popyrin;N. Djokovic;Movistar Plus+ (M7);M+ Deportes 2 (64);
+05:00;US Open 3ª Ronda (Pista Louis Armstrong);TM. Etcheverry;A. Zverev;M+ Deportes (63);
 06:00;Tour de Hainan;Etapa 5;Changjiang › Sanya (203,4 km);Hainan Touch YouTube;
+06:10;US Open 3ª Ronda (Pista Arthur Ashe);E. Alexandrova;A. Sabalenka;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 09:30;FIA Fórmula 3;G.P. Italia (Monza);Carrera 1;DAZN (Regístrate);DAZN F1 (M69);
 10:50;MotoGP;G.P. Aragón (Motorland);Clasificación;DAZN (Regístrate);MotoGP Videopass;Aragón Deporte;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Aragón TV;
 12:00;Amistoso;Baskonia;Lenovo Tenerife;Canal por confirmar;
