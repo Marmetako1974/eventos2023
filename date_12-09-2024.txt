@@ -1,5 +1,5 @@
-02:00;WTA Torneo de Guadalajara 2ª Ronda;O. Gadecki;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-04:00;WTA Torneo de Guadalajara 2ª Ronda;M. Trevisan;R. Zarazúa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+02:20;WTA Torneo de Guadalajara 2ª Ronda;O. Gadecki;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+04:05;WTA Torneo de Guadalajara 2ª Ronda;M. Trevisan;R. Zarazúa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 05:00;Davis Cup Finals Fase de grupos;Alemania;Chile;M+ Deportes 3 (65);
 10:00;Rotterdam Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 11:00;Copa Intercontinental FIBA Fase de grupos;G League Ignite;Quimsa;FIBA YouTube;
