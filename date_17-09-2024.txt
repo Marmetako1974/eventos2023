@@ -11,4 +11,11 @@
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Tailandia;Cuba;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Brasil;Croacia;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Uzbekistán;Paraguay;FIFA+;
+18:45;Champions League Fase Liga;Juventus;PSV Eindhoven;M+ Liga de Campeones 2 (M61 O116);
+18:45;Champions League Fase Liga;Young Boys;Aston Villa;M+ Liga de Campeones 3 (M62 O118);
+19:00;La Liga EA Sports;Mallorca;Real Sociedad;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M2;
 19:00;Partido de Exhibición Sofía (Bulgaria);G. Dimitrov;N. Djokovic;Canal por confirmar;
+21:00;Champions League Fase Liga;AC Milan;Liverpool;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);
+21:00;Champions League Fase Liga;FC Bayern;GNK Dinamo Zagreb;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
+21:00;Champions League Fase Liga;Real Madrid;Stuttgart;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
+21:00;Champions League Fase Liga;Sporting CP;Lille;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 5 (M182 O277);
