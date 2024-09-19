@@ -17,6 +17,14 @@
 13:30;Torneo de Hangzhou 1ª Ronda;Zh. Zhang;D. Yevseyev;ATP Tennis TV;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Irán;Guatemala;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Marruecos;Panamá;FIFA+;
+15:00;Tour de Luxemburgo;Etapa 2;Junglinster › Schifflange (155 km);MAX;DAZN (Regístrate);Eurosport 2;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Francia;Venezuela;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Portugal;Tayikistán;FIFA+;
+18:45;Champions League Fase Liga;Crvena Zvezda;Benfica;M+ Liga de Campeones 3 (M62 O118);
+18:45;Champions League Fase Liga;Feyenoord;Bayer Leverkusen;M+ Liga de Campeones 2 (M61 O116);
+19:00;La Liga EA Sports;Leganés;Athletic Club;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M3;
 20:30;Eurocup Women Clasificación;PS Battipaglia;BAXI Ferrol;Canal por confirmar;
+21:00;Champions League Fase Liga;AS Monaco;FC Barcelona;Movistar Plus+ (M7);M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
+21:00;Champions League Fase Liga;At. Madrid;RB Leipzig;M+ Liga de Campeones (M60 O115);M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 6 (M183 O278);LaLiga TV M2;
+21:00;Champions League Fase Liga;Atalanta;Arsenal;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
+21:00;Champions League Fase Liga;Stade Brestois;Sturm Graz;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 5 (M182 O277);
