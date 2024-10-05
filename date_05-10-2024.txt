@@ -32,7 +32,7 @@
 18:00;Liga Endesa Liga Regular;Río Breogán;La Laguna Tenerife;M+ Deportes 2 (64);M+ Deportes 6 (193);
 18:00;París Major;Semifinal Masculina;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 18:30;La Liga EA Sports;Real Valladolid;Rayo Vallecano;DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
-18:30;La Liga EA Sports;UD Las Palmas;Celta;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);GolStadium (acceder);TVG (Galicia);TV Canaria;LaLiga TV M2;
+18:30;La Liga EA Sports;UD Las Palmas;Celta;M+ LaLiga TV (M54-O110);GolStadium Premium (acceder);GOL PLAY (Síguelo en directo);GolStadium (acceder);TVG (Galicia);TV Canaria;LaLiga TV M2;
 18:30;LaLiga Hypermotion;Real Zaragoza;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);GolStadium Premium (acceder);LaLiga TV M4;
 18:30;LaLiga Hypermotion;UD Almería;Burgos CF;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);GolStadium Premium (acceder);LaLiga TV M3;
 18:30;Premier League;Everton;Newcastle;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
