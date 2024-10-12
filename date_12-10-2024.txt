@@ -9,7 +9,7 @@
 13:45;WorldWCR;Pirelli Estoril Round (Portugal);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);M+ Ellas Vamos (66);Movistar+ Lite;MAX;
 15:00;Superbike;Pirelli Estoril Round (Portugal);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
 16:00;Simac Ladies Tour;Etapa 5;Doetinchem › Doetinchem (140 km);MAX;
-16:00;Torneo de Valencia Semifinal 1 ATP Challenger Tour;P. Martínez;D. Galán;MAX;DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 2;
+16:05;Torneo de Valencia Semifinal 1 ATP Challenger Tour;P. Martínez;D. Galán;MAX;DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 2;
 16:15;LaLiga Hypermotion;FC Cartagena;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV Bar;
 16:15;Supersport;Pirelli Estoril Round (Portugal);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Teledeporte;RTVE Play;
 17:30;Segunda Federación Futsal;CD El Ejido Futsal;Club Sala 5 Martorell;RFEF.es;
@@ -17,12 +17,12 @@
 18:00;Liga Endesa Liga Regular;Unicaja Málaga;Força Lleida;M+ Deportes 2 (64);
 18:00;Primera FEB Liga Regular;CB Morón;Oviedo Baloncesto;LaLiga+ Plus;
 18:00;Primera Federación Futsal;Noia Portus Apostoli FS;Ribera Navarra FS;FEF TV;
-18:00;Torneo de Valencia Semifinal 2 ATP Challenger Tour;N. Moreno De Alboran;J. Faria;MAX;DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 2;
 18:00;Título Mundial Peso Semipesado;A. Beterbiev;D. Bivol;DAZN (Regístrate);
 18:00;Velada Peso Superligero;A. Moya;K. Yetongnon;GolStadium Premium (acceder);GolStadium (acceder);
 18:30;LaLiga Hypermotion;Cádiz CF;Málaga;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);GolStadium Premium (acceder);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Eibar;Eldense;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);GolStadium Premium (acceder);LaLiga TV M2;
 18:30;Primera FEB Liga Regular;FC Cartagena CB;Monbus Obradoiro;LaLiga+ Plus;
+18:30;Torneo de Valencia Semifinal 2 ATP Challenger Tour;N. Moreno De Alboran;J. Faria;MAX;DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 2;
 19:00;Primera FEB Liga Regular;Club Ourense Baloncesto;GA Cantabria;LaLiga+ Plus;TVG2 (Galicia);
 19:00;Primera FEB Liga Regular;UEMC RV Baloncesto;Baloncesto Fuenlabrada;LaLiga+ Plus;
 20:00;Lega Serie A Liga Regular;Umana Reyer Venice;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
