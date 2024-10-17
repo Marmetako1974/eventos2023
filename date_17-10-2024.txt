@@ -24,8 +24,7 @@
 18:00;Eurocup Women;TTT Riga;Zaglebie Sosnowiec;FIBA YouTube;
 18:30;Campeonato Mundo Pista;Ballerup 2024;MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
 18:30;Six Kings Slam Semifinales;N. Djokovic;J. Sinner;DAZN (Regístrate);DAZN App Gratis (Regístrate);Movistar Plus+ (M7);Tennis Channel (Orange 123);M+ Deportes 2 (64);
-18:30;Torneo de Amberes 2ª Ronda;T. Seyboth-Wild;S. Tsitsipas;ATP Tennis TV;
-18:30;Torneo de Estocolmo 2ª Ronda;A. Rublev;A. Muller;ATP Tennis TV;
+18:40;Torneo de Amberes 2ª Ronda;T. Seyboth-Wild;S. Tsitsipas;ATP Tennis TV;
 19:00;Eurocup Liga Regular;Valencia Basket;Umana Reyer Venice;M+ Deportes (63);
 19:00;Eurocup Women;BC Constanta;Rutronik Stars Keltern;FIBA YouTube;
 19:00;Eurocup Women;Besiktas JK Istanbul;Benfica CB;FIBA YouTube;
@@ -33,8 +32,7 @@
 19:30;Eurocup Women;BCF Elfic Fribourg;BC Neptunas;FIBA YouTube;
 19:30;Euroliga Liga Regular;ALBA Berlin;Fenerbahce Istanbul;M+ Deportes 4 (191);
 20:00;Six Kings Slam Semifinales;C. Alcaraz;R. Nadal;DAZN (Regístrate);DAZN App Gratis (Regístrate);Movistar Plus+ (M7);Tennis Channel (Orange 123);M+ Deportes 2 (64);
-20:00;Torneo de Amberes 2ª Ronda;Z. Bergs;S. Báez;ATP Tennis TV;
-20:00;Torneo de Estocolmo 2ª Ronda;Q. Halys;G. Dimitrov;ATP Tennis TV;
+20:00;Torneo de Estocolmo 2ª Ronda;A. Rublev;A. Muller;ATP Tennis TV;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;BC Partizan Beograd;M+ Deportes 3 (65);
 20:30;Eurocup Women;Basket Montpellier;Caledonia Gladiators;FIBA YouTube;
 20:30;Eurocup Women;Basket Namur Capitale;GEAS Basket;FIBA YouTube;
@@ -43,3 +41,5 @@
 20:45;Euroliga Liga Regular;FC Bayern Basketball;Paris Basketball;M+ Deportes 6 (193);
 20:45;Euroliga Liga Regular;Real Madrid Baloncesto;Panathinaikos BC;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Amistoso Femenino;España;Portugal;RTVE Play;
+21:20;Torneo de Amberes 2ª Ronda;Z. Bergs;S. Báez;ATP Tennis TV;
+21:20;Torneo de Estocolmo 2ª Ronda;Q. Halys;G. Dimitrov;ATP Tennis TV;
