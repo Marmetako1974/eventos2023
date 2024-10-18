@@ -4,9 +4,12 @@
 08:00;Torneo de Astaná;1/4 de Final;ATP 250;ATP Tennis TV;
 08:00;Tour of Guangxi;Etapa 4;Bama › Jinchengjiang (176,8 km);MAX;
 08:00;WRC Rally;Rally de Europa Central;SS3 › SS8;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+08:00;WTA Torneo de Ningbo 1/4 de Final;D. Kasatkina;Y. Putintseva;WTA TV;DAZN (Regístrate);
 08:00;WTA Torneo de Osaka 1/4 de Final;K. Birrell;S. Saito;WTA TV;DAZN (Regístrate);
-10:30;WTA Torneo de Ningbo;1/4 de Final;WTA 500;WTA TV;DAZN (Regístrate);
+09:30;WTA Torneo de Ningbo 1/4 de Final;M. Andreeva;B. Krejcikova;WTA TV;DAZN (Regístrate);
+11:00;WTA Torneo de Ningbo 1/4 de Final;B. Haddad Maia;P. Badosa;WTA TV;DAZN (Regístrate);
 12:05;Torneo de Estocolmo;1/4 de Final;ATP 250;ATP Tennis TV;
+13:00;WTA Torneo de Ningbo 1/4 de Final;A. Kalinskaya;K. Muchova;WTA TV;DAZN (Regístrate);
 14:05;Torneo de Amberes;1/4 de Final;ATP 250;ATP Tennis TV;
 14:10;Supersport 300;G.P. España (Jerez);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 16:00;Supersport;G.P. España (Jerez);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
