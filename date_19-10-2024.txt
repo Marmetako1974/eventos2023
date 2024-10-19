@@ -8,7 +8,7 @@
 09:00;ITF Junior Finals Semifinales;R. Jodar;C. Robertson;ITF Tennis YouTube;
 11:00;Superbike;G.P. España (Jerez);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;Teledeporte;RTVE Play;
 11:50;WorldWCR;G.P. España (Jerez);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);M+ Ellas Vamos (66);Movistar+ Lite;MAX;
-12:00;Torneo de Astaná Semifinal 1 ATP 250;F. Cerúndolo;G. Diallo;ATP Tennis TV;
+12:10;Torneo de Astaná Semifinal 1 ATP 250;F. Cerúndolo;G. Diallo;ATP Tennis TV;
 12:30;Ultimate Tennis Showdown Fase de grupos;T. Kokkinakis;U. Humbert;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 12:45;Supersport 300;G.P. España (Jerez);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 13:10;WTA Torneo de Ningbo Semifinal 1 WTA 500;P. Badosa;D. Kasatkina;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
@@ -17,12 +17,12 @@
 13:30;Ultimate Tennis Showdown Fase de grupos;B. Shelton;L. Musetti;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 14:00;La Liga EA Sports;Athletic Club;Espanyol;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;Superbike;G.P. España (Jerez);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;Eurosport 2;
-14:30;Torneo de Estocolmo Semifinal 1 ATP 250;S. Wawrinka;T. Paul;ATP Tennis TV;M+ Deportes 5 (192);
 14:30;Ultimate Tennis Showdown Fase de grupos;D. Thiem;D. Shapovalov;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
-15:00;Torneo de Astaná Semifinal 2 ATP 250;A. Vukic;K. Khachanov;ATP Tennis TV;
+14:40;Torneo de Estocolmo Semifinal 1 ATP 250;S. Wawrinka;T. Paul;ATP Tennis TV;M+ Deportes 5 (192);
+15:10;Torneo de Astaná Semifinal 2 ATP 250;A. Vukic;K. Khachanov;ATP Tennis TV;
 15:15;Supersport;G.P. España (Jerez);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;Eurosport 2;
-15:30;Torneo de Amberes Semifinal 1 ATP 250;H. Gaston;R. Bautista-Agut;ATP Tennis TV;M+ Deportes 6 (193);
 15:30;Ultimate Tennis Showdown Fase de grupos;G. Monfils;JL. Struff;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+15:40;Torneo de Amberes Semifinal 1 ATP 250;H. Gaston;R. Bautista-Agut;ATP Tennis TV;M+ Deportes 6 (193);
 15:50;WTA Torneo de Ningbo Semifinal 2 WTA 500;M. Andreeva;K. Muchova;WTA TV;DAZN (Regístrate);
 16:00;BBL Liga Regular;MBC;FC Bayern Basketball;LaLiga+ Plus;
 16:00;Premier League;Fulham;Aston Villa;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
@@ -37,7 +37,7 @@
 17:00;Primera FEB Liga Regular;Baloncesto Fuenlabrada;TAU Castelló;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
 17:30;Primera FEB Liga Regular;CB Zamora;FC Cartagena CB;LaLiga+ Plus;
 17:30;Sevilla Open;Semifinales;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;
-17:30;Torneo de Amberes Semifinal 2 ATP 250;M. Giron;J. Lehecka;ATP Tennis TV;M+ Deportes 6 (193);
+17:40;Torneo de Amberes Semifinal 2 ATP 250;M. Giron;J. Lehecka;ATP Tennis TV;M+ Deportes 6 (193);
 18:00;Liga Endesa Liga Regular;Joventut Badalona;Río Breogán;M+ Deportes (63);
 18:00;Primera Federación Futsal;Movistar Inter;Burela FS;FEF TV;
 18:00;Torneo de Estocolmo Semifinal 2 ATP 250;G. Dimitrov;T. Griekspoor;ATP Tennis TV;M+ Deportes 5 (192);
