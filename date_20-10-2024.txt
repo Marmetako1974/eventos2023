@@ -26,7 +26,6 @@
 14:00;La Liga EA Sports;Mallorca;Rayo Vallecano;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Cádiz CF;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M2;
 14:00;Superbike;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;Teledeporte;RTVE Play;
-15:00;Premier League;Wolverhampton;Manchester City;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 15:00;Torneo de Estocolmo Final ATP 250;T. Paul;G. Dimitrov;ATP Tennis TV;M+ Deportes 2 (64);
 15:00;Ultimate Tennis Showdown;Final;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 15:15;Supersport;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
@@ -36,12 +35,11 @@
 17:00;Liga Endesa Liga Regular;Coviran Granada;La Laguna Tenerife;M+ Deportes 4 (191);
 17:00;Liga Endesa Liga Regular;Valencia Basket;MoraBanc Andorra;M+ Deportes 3 (65);
 17:00;Primera Federación Futsal;Palma Futsal;Viña Albali Valdepeñas;FEF TV;
-17:30;Premier League;Liverpool;Chelsea;DAZN (Regístrate);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);M+ #Vamos Bar 2 (305);M+ Liga de Campeones (M60 O115);
 18:15;Lega Serie A Liga Regular;Virtus Bologna;Derthona Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;La Liga EA Sports;Villarreal;Getafe;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Elche;Sporting Gijón;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 18:30;LaLiga Hypermotion;Real Zaragoza;UD Almería;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
-18:30;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ #Vamos Bar (304);M+ Deportes (63);
+18:30;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;NASCAR Cup Series;Las Vegas Speedway;Playoffs - Round of 8;DAZN (Regístrate);
 21:00;Fórmula 1;G.P. Estados Unidos (Austin);Carrera;DAZN (Regístrate);DAZN F1 (M69);
 21:00;La Liga EA Sports;FC Barcelona;Sevilla FC;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
