@@ -40,7 +40,7 @@
 20:30;Copa de España Fase de grupos;Movistar Estudiantes;Albacete Basket;FEB TV;
 20:45;Copa de España Fase de grupos;CB L´Horta Godella;HLA Alicante;FEB TV;
 20:45;Copa de España Fase de grupos;Cáceres Basket;La Salud Archena;FEB TV;
-20:45;Copa de España Fase de grupos;UEMC RV Baloncesto;CB Zamora;FEB TV;
+20:45;Copa de España Fase de grupos;UEMC RV Baloncesto;CB Zamora;Twitch baloncestoesp;
 21:00;Champions League Fase Liga;Arsenal;Shakhtar Donetsk;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 6 (M183 O278);
 21:00;Champions League Fase Liga;Aston Villa;Bologna;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 7 (M184 O279);
 21:00;Champions League Fase Liga;Girona;Slovan Bratislava;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);

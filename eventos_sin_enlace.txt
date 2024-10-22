@@ -28,4 +28,4 @@
 20:30;Copa de España Fase de grupos;Movistar Estudiantes;Albacete Basket;FEB TV;
 20:45;Copa de España Fase de grupos;CB L´Horta Godella;HLA Alicante;FEB TV;
 20:45;Copa de España Fase de grupos;Cáceres Basket;La Salud Archena;FEB TV;
-20:45;Copa de España Fase de grupos;UEMC RV Baloncesto;CB Zamora;FEB TV;
+20:45;Copa de España Fase de grupos;UEMC RV Baloncesto;CB Zamora;Twitch baloncestoesp;
