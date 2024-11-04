@@ -8,5 +8,5 @@
 16:30;Torneo de Belgrado 1ª Ronda;M. Kecmanovic;C. O'Connell;ATP Tennis TV;
 18:00;Torneo de Metz 1ª Ronda;R. Gasquet;T. Monteiro;ATP Tennis TV;
 19:30;Torneo de Metz 1ª Ronda;C. Norrie;R. Carballés;ATP Tennis TV;
-20:30;LaLiga Hypermotion;Levante;Málaga;APLAZADO;LaLiga TV M2;
+20:30;LaLiga Hypermotion;Levante;Málaga;APLAZADO;
 21:00;Premier League;Fulham;Brentford;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);
