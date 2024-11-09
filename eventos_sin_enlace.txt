@@ -12,6 +12,7 @@
 04:00;NBA Liga Regular;Sacramento Kings;Los Angeles Clippers;NBA League Pass;
 12:00;Primera Federación Futsal;Burela FS;Palma Futsal;FEF TV;
 15:00;Torneo de Belgrado Final ATP 250;H. Medjedovic;D. Shapovalov;ATP Tennis TV;
+16:00;Premier League;Wolverhampton;Southampton;DAZN (Regístrate);
 16:30;Torneo de Metz Final ATP 250;C. Norrie;B. Bonzi;ATP Tennis TV;
 18:00;Primera Federación Futsal;Noia Portus Apostoli FS;Barça FS;FEF TV;Esport3 (Cataluña);
 18:00;Primera Federación Futsal;Ribera Navarra FS;Córdoba FS;FEF TV;
@@ -24,5 +25,5 @@
 19:00;Primera Federación Futsal;Movistar Inter;Jaén FS;FEF TV;
 20:00;Primera Federación Futsal;Viña Albali Valdepeñas;ElPozo Murcia;FEF TV;
 20:15;Primera FEB Liga Regular;San Pablo Burgos;Gipuzkoa Basket;LaLiga+ Plus;La 8 Burgos;
-20:30;Lega Serie A Liga Regular;Dolomiti Energia Trento;Trieste Pallacanestro;DAZN (Regístrate);
+20:30;Lega Serie A Liga Regular;Dolomiti Energia Trento;Trieste Pallacanestro;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 23:00;NBA Liga Regular;San Antonio Spurs;Utah Jazz;NBA League Pass;
