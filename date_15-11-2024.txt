@@ -14,6 +14,7 @@
 19:00;Billie Jean King Cup 1ª Ronda Partido 2;Alemania;Gran Bretaña;M+ Ellas Vamos (66);Movistar+ Lite;
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Fenerbahce Istanbul;M+ Deportes 5 (192);
 19:30;Primera Federación Futsal;Palma Futsal;AD Sala 10 Zaragoza;FEF TV;
+20:00;BBL;USC Heidelberg;Hamburg Towers;LaLiga+ Plus;
 20:30;ATP Finals Round Robin;C. Ruud;A. Rublev;ATP Tennis TV;M+ Deportes 2 (64);
 20:30;Euroliga Liga Regular;BC Partizan Beograd;AX Olimpia Milano;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;Barça Basket;Paris Basketball;Movistar Plus+ (M7);M+ Deportes (63);
