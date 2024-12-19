@@ -11,8 +11,8 @@
 18:00;Master Final;1/4 Final Femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 18:30;Eurocup Women Play-Off;Sopron Basket;GEAS Basket;FIBA YouTube;
 18:45;Euroliga Liga Regular;Panathinaikos BC;Baskonia;M+ Deportes (63);
-19:00;LaLiga Hypermotion Estadio Martínez Valero, Elche;Elche;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M3;
 19:00;LaLiga Hypermotion;Cádiz CF;Burgos CF;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
+19:00;LaLiga Hypermotion;Elche;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M3;
 19:00;Vuelta a España;Gala de Presentación;Edición 2025;MAX;Teledeporte;RTVE Play;
 20:00;Eurocup Women Play-Off;Castors Braine;BAXI Ferrol;FIBA YouTube;TVG2 (Galicia);
 20:00;Master Final;1/4 Final Masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
