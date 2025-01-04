@@ -17,7 +17,7 @@
 07:10;Torneo de Hong Kong Semifinal 1 ATP 250;A. Muller;J. Munar;ATP Tennis TV;
 09:40;WTA Torneo de Brisbane Semifinal 2 WTA 500;A. Sabalenka;M. Andreeva;WTA TV;
 09:55;Torneo de Hong Kong Semifinal 2 ATP 250;J. Shang;K. Nishikori;ATP Tennis TV;
-11:25;Torneo de Brisbane Semifinal 2 ATP 250;R. Opelka;G. Mpetshi Perricard;ATP Tennis TV;
+11:40;Torneo de Brisbane Semifinal 2 ATP 250;R. Opelka;G. Mpetshi Perricard;ATP Tennis TV;
 13:00;Primera Federación Futsal;Palma Futsal;Movistar Inter;FEF TV;
 16:00;Premier League;Southampton;Brentford;DAZN (Regístrate);
 16:00;Primera Federación Futsal;AD Sala 10 Zaragoza;Industrias Santa Coloma;FEF TV;

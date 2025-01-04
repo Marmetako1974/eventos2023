@@ -21,7 +21,7 @@
 09:40;WTA Torneo de Brisbane Semifinal 2 WTA 500;A. Sabalenka;M. Andreeva;WTA TV;
 09:55;Torneo de Hong Kong Semifinal 2 ATP 250;J. Shang;K. Nishikori;ATP Tennis TV;
 10:30;United Cup Semifinal 2;Estados Unidos;República Checa;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
-11:25;Torneo de Brisbane Semifinal 2 ATP 250;R. Opelka;G. Mpetshi Perricard;ATP Tennis TV;
+11:40;Torneo de Brisbane Semifinal 2 ATP 250;R. Opelka;G. Mpetshi Perricard;ATP Tennis TV;
 13:00;Primera Federación Futsal;Palma Futsal;Movistar Inter;FEF TV;
 13:30;Premier League;Tottenham;Newcastle;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:30;Copa del Rey 1/16 de Final;Huesca;Real Betis;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
