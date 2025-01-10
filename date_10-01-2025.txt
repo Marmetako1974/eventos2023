@@ -15,7 +15,7 @@
 07:35;WTA Torneo de Hobart Semifinal 2 WTA 250;M. Joint;E. Mertens;WTA TV;
 09:00;Partido de Exhibición Melbourne (Australia);J. Sinner;S. Tsitsipas;MAX;
 10:40;WTA Torneo de Adelaida Semifinal 2 WTA 500;J. Pegula;Y. Putintseva;WTA TV;Tennis Channel (Orange 123);
-12:05;Torneo de Adelaida Semifinal 2 ATP 250;M. Kecmanovic;S. Korda;ATP Tennis TV;
+12:30;Torneo de Adelaida Semifinal 2 ATP 250;M. Kecmanovic;S. Korda;ATP Tennis TV;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;ASVEL Lyon-Villeurbanne;M+ Deportes 5 (192);
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes 2 (64);
 20:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;Paris Basketball;Fanatiz (Regístrate ahora);M+ Deportes 3 (65);
