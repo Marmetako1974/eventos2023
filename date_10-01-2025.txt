@@ -18,7 +18,7 @@
 11:00;Torneo de Adelaida Semifinal 2 ATP 250;M. Kecmanovic;S. Korda;ATP Tennis TV;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;ASVEL Lyon-Villeurbanne;M+ Deportes 5 (192);
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes 2 (64);
-20:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;Paris Basketball;M+ Deportes 3 (65);
+20:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;Paris Basketball;Fanatiz (Regístrate ahora);M+ Deportes 3 (65);
 20:15;Euroliga Liga Regular;Olympiacos Piraeus;FC Bayern Basketball;M+ Deportes 4 (191);
 20:30;LaLiga Hypermotion;Granada CF;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 20:45;Euroliga Liga Regular;Virtus Bologna;Baskonia;M+ Deportes (63);
