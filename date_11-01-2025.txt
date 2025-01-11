@@ -4,11 +4,11 @@
 01:30;NBA Liga Regular;Boston Celtics;Sacramento Kings;NBA League Pass;
 01:30;NBA Liga Regular;New York Knicks;Oklahoma C. Thunder;NBA League Pass;
 02:00;NBA Liga Regular;Chicago Bulls;Washington Wizards;NBA League Pass;
-02:00;Torneo de Auckland Final ATP 250;Z. Bergs;G. Monfils;ATP Tennis TV;
+02:15;Torneo de Auckland Final ATP 250;Z. Bergs;G. Monfils;ATP Tennis TV;
 03:00;NBA Liga Regular;Denver Nuggets;Brooklyn Nets;NBA League Pass;
-03:00;WTA Torneo de Hobart Final WTA 250;M. Kessler;E. Mertens;WTA TV;
-06:30;WTA Torneo de Adelaida Final WTA 500;J. Pegula;M. Keys;WTA TV;Tennis Channel (Orange 123);
-08:30;Torneo de Adelaida Final ATP 250;F. Auger-Aliassime;S. Korda;ATP Tennis TV;
+03:10;WTA Torneo de Hobart Final WTA 250;M. Kessler;E. Mertens;WTA TV;
+07:15;WTA Torneo de Adelaida Final WTA 500;J. Pegula;M. Keys;WTA TV;Tennis Channel (Orange 123);
+09:00;Torneo de Adelaida Final ATP 250;F. Auger-Aliassime;S. Korda;ATP Tennis TV;
 14:00;La Liga EA Sports;Alavés;Girona;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Racing Ferrol;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 16:15;La Liga EA Sports;Real Valladolid;Real Betis;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;LaLiga TV Bar;
@@ -40,7 +40,7 @@
 20:45;Liga Endesa Liga Regular;Casademont Zaragoza;BAXI Manresa;M+ Deportes (63);
 20:45;Liga Endesa Liga Regular;Joventut Badalona;MoraBanc Andorra;M+ Deportes 3 (65);
 21:00;La Liga EA Sports;Sevilla FC;Valencia CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;LaLiga TV Bar;
-21:00;LaLiga Hypermotion;Real Oviedo;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M2;
+21:00;LaLiga Hypermotion Estadio Nuevo Carlos Tartiere, Oviedo;Real Oviedo;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M2;
 21:00;NBA Liga Regular;Atlanta Hawks;Houston Rockets;NBA League Pass;
 21:00;Rally Dakar;Etapa 6;Hail › Al Duwadimi (829 km - SS: 606 km);Teledeporte;RTVE Play;Esport3 (Cataluña);
 21:05;FIA Fórmula E;Ciudad de México (México);Carrera;MAX;DAZN (Regístrate);Eurosport 2;
