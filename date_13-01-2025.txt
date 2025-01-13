@@ -3,6 +3,7 @@
 00:00;NBA Liga Regular;Orlando Magic;Philadelphia 76ers;NBA League Pass;
 00:00;NBA Liga Regular;Washington Wizards;Oklahoma C. Thunder;NBA League Pass;
 01:00;Open Australia 1ª Ronda (1573 Arena);A. Rinderknech;F. Tiafoe;MAX;
+01:00;Open Australia 1ª Ronda (John Cain Arena);S. Tsitsipas;A. Michelsen;MAX;M+ Deportes 7 (194);
 01:00;Open Australia 1ª Ronda (Kia Arena);D. Shnaider;E. Cocciaretto;MAX;
 01:00;Open Australia 1ª Ronda (Pista 12);N. Basilashvili;J. Mensik;MAX;
 01:00;Open Australia 1ª Ronda (Pista 13);L. Jeanjean;J. Burrage;MAX;
@@ -13,6 +14,8 @@
 01:00;Open Australia 1ª Ronda (Pista 6);M. Uchijima;M. Linette;MAX;
 01:00;Open Australia 1ª Ronda (Pista 7);L. Samsonova;K. Rakhimova;MAX;
 01:00;Open Australia 1ª Ronda (Pista 8);R. Sramkova;K. Volynets;MAX;
+01:30;Open Australia 1ª Ronda (Margaret Court Arena);A. Tomljanovic;A. Krueger;MAX;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;
+01:30;Open Australia 1ª Ronda (Rod Laver Arena);C. Gauff;S. Kenin;MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);M+ Deportes 5 (192);Eurosport 1;
 02:00;NBA Liga Regular;Utah Jazz;Brooklyn Nets;NBA League Pass;
 02:30;Open Australia 1ª Ronda (Kia Arena);L. Bronzetti;V. Azarenka;MAX;
 02:30;Open Australia 1ª Ronda (Pista 13);M. Frech;P. Kudermetova;MAX;
@@ -24,10 +27,14 @@
 02:30;Open Australia 1ª Ronda (Pista 8);T. Seyboth-Wild;F. Marozsan;MAX;
 03:00;NBA Liga Regular;Phoenix Suns;Charlotte Hornets;NBA League Pass;
 03:00;Open Australia 1ª Ronda (1573 Arena);B. Bencic;J. Ostapenko;MAX;
+03:00;Open Australia 1ª Ronda (Margaret Court Arena);J. Thompson;D. Koepfer;MAX;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;
 03:00;Open Australia 1ª Ronda (Pista 12);M. Vondrousova;J. Fett;MAX;
 03:00;Open Australia 1ª Ronda (Pista 5);S. Bejlek;C. Dolehide;MAX;
+03:30;Open Australia 1ª Ronda (John Cain Arena);K. Siniakova;I. Swiatek;MAX;M+ Deportes 7 (194);
+04:00;Open Australia 1ª Ronda (Kia Arena);T. Kokkinakis;R. Safiullin;MAX;DAZN (Regístrate);Eurosport 2;
 04:00;Open Australia 1ª Ronda (Pista 5);Y. Nishioka;A. Dougaz;MAX;
 04:00;Open Australia 1ª Ronda (Pista 7);T. Schoolkate;T. Daniel;MAX;
+04:00;Open Australia 1ª Ronda (Rod Laver Arena);J. Sinner;N. Jarry;MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);M+ Deportes 5 (192);Eurosport 1;
 04:30;Open Australia 1ª Ronda (Kia Arena);D. Dzumhur;A. Vukic;MAX;
 04:30;Open Australia 1ª Ronda (Kia Arena);N. Hibino;M. Kostyuk;MAX;
 04:30;Open Australia 1ª Ronda (Pista 12);P. Martic;J. Cristian;MAX;
@@ -45,3 +52,12 @@
 06:30;Open Australia 1ª Ronda (Pista 5);K. Muchova;N. Podoroska;MAX;
 06:30;Open Australia 1ª Ronda (Pista 6);J. Shang;A. Davidovich;MAX;
 06:30;Open Australia 1ª Ronda (Pista 8);E. Mertens;V. Golubic;MAX;
+07:00;Open Australia 1ª Ronda (John Cain Arena);M. Joint;J. Pegula;MAX;M+ Deportes 7 (194);
+09:00;Open Australia 1ª Ronda (John Cain Arena);J. Fearnley;N. Kyrgios;MAX;M+ Deportes 7 (194);
+09:00;Open Australia 1ª Ronda (Margaret Court Arena);A. Shevchenko;C. Alcaraz;MAX;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;
+09:00;Open Australia 1ª Ronda (Rod Laver Arena);N. Djokovic;N. Basavareddy;MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);M+ Deportes 5 (192);Eurosport 1;
+11:00;Open Australia 1ª Ronda (Margaret Court Arena);D. Snigur;D. Collins;MAX;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;
+11:00;Open Australia 1ª Ronda (Rod Laver Arena);N. Osaka;C. García;MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);M+ Deportes 5 (192);Eurosport 1;
+20:30;LaLiga Hypermotion;Eldense;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+21:00;La Liga EA Sports;Real Sociedad;Villarreal;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
+21:00;Rally Dakar;Etapa 8;Al Duwadimi › Riyadh (733 km - SS: 487 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;
