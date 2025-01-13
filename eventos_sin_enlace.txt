@@ -40,8 +40,8 @@
 08:20;Open Australia 1ª Ronda (Pista 7);JL. Struff;F. Auger-Aliassime;MAX;
 08:50;Open Australia 1ª Ronda (Pista 6);J. Shang;A. Davidovich;MAX;
 09:00;Open Australia 1ª Ronda (Pista 8);E. Mertens;V. Golubic;MAX;
-09:50;Open Australia 1ª Ronda (1573 Arena);F. Passaro;G. Dimitrov;MAX;
-09:50;Open Australia 1ª Ronda (Pista 15);D. Goffin;B. Bonzi;MAX;
-10:00;Open Australia 1ª Ronda (Kia Arena);C. O'Connell;T. Paul;MAX;
+10:00;Open Australia 1ª Ronda (1573 Arena);F. Passaro;G. Dimitrov;MAX;
+10:00;Open Australia 1ª Ronda (Pista 15);D. Goffin;B. Bonzi;MAX;
 10:00;Open Australia 1ª Ronda (Pista 3);G. Minnen;D. Aiava;MAX;
-10:00;Open Australia 1ª Ronda (Pista 5);K. Muchova;N. Podoroska;MAX;
+10:15;Open Australia 1ª Ronda (Pista 5);K. Muchova;N. Podoroska;MAX;
+10:25;Open Australia 1ª Ronda (Kia Arena);C. O'Connell;T. Paul;MAX;
