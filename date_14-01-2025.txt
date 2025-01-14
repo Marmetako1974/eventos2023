@@ -58,6 +58,7 @@
 18:00;Basketball Champions League Play-In;Hapoel Holon;Petkimspor Kulübü;DAZN (Regístrate);
 18:00;Eurocup Liga Regular;Lietkabelis Panevezys;Valencia Basket;M+ Deportes (63);
 18:30;Basketball Champions League Play-In;Peristeri BC;Derthona Basket;DAZN (Regístrate);
+18:45;FIBA Europe Cup;Fribourg Olympic;Spirou Charleroi;FIBA YouTube;
 20:00;Basketball Champions League Play-In;Filou Oostende;Nanterre 92;DAZN (Regístrate);
 20:00;Basketball Champions League Play-In;NINERS Chemnitz;Manisa BBSK;DAZN (Regístrate);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;BC Partizan Beograd;M+ Deportes 5 (192);
