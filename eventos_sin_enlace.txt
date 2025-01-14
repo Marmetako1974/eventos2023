@@ -41,7 +41,7 @@
 13:15;Copa de la Reina;Sorteo;Zaragoza 2025;Aragón Deporte;Twitch baloncestoesp;
 18:00;Basketball Champions League Play-In;Hapoel Holon;Petkimspor Kulübü;DAZN (Regístrate);
 18:30;Basketball Champions League Play-In;Peristeri BC;Derthona Basket;DAZN (Regístrate);
-18:45;FIBA Europe Cup;Fribourg Olympic;Spirou Charleroi;FIBA YouTube;
+18:45;FIBA Europe Cup Segunda Ronda;Fribourg Olympic;Spirou Charleroi;FIBA YouTube;
 20:00;Basketball Champions League Play-In;Filou Oostende;Nanterre 92;DAZN (Regístrate);
 20:00;Basketball Champions League Play-In;NINERS Chemnitz;Manisa BBSK;DAZN (Regístrate);
 21:00;FIBA Europe Cup Segunda Ronda;FC Porto CB;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;Aragón TV;
