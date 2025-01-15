@@ -30,7 +30,7 @@
 19:15;FIBA Europe Cup Segunda Ronda;Maroussi BC;Tofas Bursa;FIBA YouTube;
 19:15;FIBA Europe Cup Segunda Ronda;PAOK Salónica;BC Kalev Cramo;FIBA YouTube;
 19:30;Basketball Champions League Play-In;Maccabi Ironi Ramat Gan;Falco Szombathely;DAZN (Regístrate);
-19:30;Copa del Rey 1/8 de final Estadio de los Juegos Mediterráneos, Almería;UD Almería;Leganés;M+ Copa del Rey (M52 O107);LaLiga TV M2;
+19:30;Copa del Rey 1/8 de final;UD Almería;Leganés;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 20:00;Basketball Champions League Play-In;Reggio Emilia;Telekom Baskets Bonn;DAZN (Regístrate);
 20:00;Basketball Champions League Play-In;Saint-Quentin Basketball;Galatasaray Istanbul;DAZN (Regístrate);
 20:00;Eurocup Women 1/8 de final;ASVEL Lyon-Villeurbanne;Galatasaray Istanbul;FIBA YouTube;
@@ -40,4 +40,4 @@
 20:00;FIBA Europe Cup Segunda Ronda;ESSM Le Portel Côte;Cholet Basket;FIBA YouTube;
 20:00;FIBA Europe Cup Segunda Ronda;JDA Dijon;CSM Oradea;FIBA YouTube;
 20:30;Primera Federación Futsal;Servigroup Peñiscola FS;Jimbee Cartagena FS;FEF TV;
-21:30;Copa del Rey 1/8 de final Estadio Martínez Valero, Elche;Elche;At. Madrid;La 1 TVE;RTVE Play;
+21:30;Copa del Rey 1/8 de final;Elche;At. Madrid;La 1 TVE;RTVE Play;

@@ -45,8 +45,8 @@
 19:15;FIBA Europe Cup Segunda Ronda;Maroussi BC;Tofas Bursa;FIBA YouTube;
 19:15;FIBA Europe Cup Segunda Ronda;PAOK Salónica;BC Kalev Cramo;FIBA YouTube;
 19:30;Basketball Champions League Play-In;Maccabi Ironi Ramat Gan;Falco Szombathely;DAZN (Regístrate);
-19:30;Copa del Rey 1/8 de final Estadio de los Juegos Mediterráneos, Almería;UD Almería;Leganés;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 19:30;Copa del Rey 1/8 de final;Pontevedra;Getafe;M+ LaLiga TV (M54-O110);LaLiga TV M3;
+19:30;Copa del Rey 1/8 de final;UD Almería;Leganés;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 20:00;Basketball Champions League Play-In;Reggio Emilia;Telekom Baskets Bonn;DAZN (Regístrate);
 20:00;Basketball Champions League Play-In;Saint-Quentin Basketball;Galatasaray Istanbul;DAZN (Regístrate);
 20:00;Eurocup Women 1/8 de final;ASVEL Lyon-Villeurbanne;Galatasaray Istanbul;FIBA YouTube;
@@ -62,8 +62,8 @@
 20:30;Premier League;Leicester City;Crystal Palace;DAZN (Regístrate);DAZN 4 (M197);MAX;
 20:30;Premier League;Newcastle;Wolverhampton;DAZN (Regístrate);DAZN 3 (M196);MAX;
 20:30;Primera Federación Futsal;Servigroup Peñiscola FS;Jimbee Cartagena FS;FEF TV;
-21:00;Copa del Rey 1/8 de final Estadi Futbol Club Barcelona, Barcelona;FC Barcelona;Real Betis;Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
+21:00;Copa del Rey 1/8 de final;FC Barcelona;Real Betis;Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Joventut Badalona;M+ Deportes (63);Esport3 (Cataluña);
 21:00;Premier League;Arsenal;Tottenham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 21:00;Rally Dakar;Etapa 10;Haradh › Shubaytah (638 km - SS: 119 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;
-21:30;Copa del Rey 1/8 de final Estadio Martínez Valero, Elche;Elche;At. Madrid;La 1 TVE;RTVE Play;
+21:30;Copa del Rey 1/8 de final;Elche;At. Madrid;La 1 TVE;RTVE Play;
